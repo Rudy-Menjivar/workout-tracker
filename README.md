@@ -7,7 +7,11 @@ Workout Tracker is a web application that lets anyone create and track daily wor
 
 This application's front end code was already provided. However, the Mongo database along with the Mongoose schema and routes with Express still needed to be created.
 
+### Homepage
+
 <a href="https://guarded-ocean-13572.herokuapp.com/" target="_blank"><img src="./public/assets/lastWorkout.png"></a>
+
+### Dashboard
 
 <a href="https://guarded-ocean-13572.herokuapp.com/" target="_blank"><img src="./public/assets/dashboard.png"></a>
 
